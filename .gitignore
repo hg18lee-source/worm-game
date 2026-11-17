@@ -1,0 +1,20 @@
+# Local hosting settings
+.openai/
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+.aws/
+.ssh/
+# Temporary files and dependencies
+node_modules/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
